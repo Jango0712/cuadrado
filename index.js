@@ -1,8 +1,8 @@
 //Funciones
 
-let suma = (x, y = 0) => {
+let suma = (z, x, y = 0) => {
     
-    let resultado = x + y;
+    let resultado = z + x + y;
 
     console.log(resultado);
   };
