@@ -1,5 +1,11 @@
 //Funciones
 
+let suma = (x, y = 0) => {
+    
+    let resultado = x + y;
+
+    console.log(resultado);
+  };
 
   let resta = (x, y = 0) =>{
     
