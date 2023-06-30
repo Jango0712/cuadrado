@@ -1,1 +1,1 @@
-# cuadrado
+Ha ocurrido un conflicto al hacer el merge, debido a que una rama eliminaba la funcion suma y la otra modificaba, el conflicto ya se ha solucionado
